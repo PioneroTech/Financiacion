@@ -1,0 +1,14 @@
+{
+  "name": "Calculadora de financiación",
+  "short_name": "Financiación",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF1EA",
+  "theme_color": "#1F3B2D",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
